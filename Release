@@ -1,0 +1,8 @@
+Origin: GalpYT's Repo For IOS6
+Label: GalpYT's Repo For IOS6
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: GalpYT's Repo For IOS 6.1.6
